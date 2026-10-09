@@ -1,0 +1,17 @@
+{
+  "name": "review-findings",
+  "owner": {
+    "name": "Aref Mozafari",
+    "url": "https://github.com/ArefMozafari"
+  },
+  "metadata": {
+    "description": "Agent skill that reports every code review finding in one fixed shape, with a comment ready to paste."
+  },
+  "plugins": [
+    {
+      "name": "review-findings",
+      "source": "./",
+      "description": "One inline review pass, static checks only, and every finding as severity with file and line, the code, the concrete failure scenario, and a paste-ready comment."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "review-findings",
+  "version": "1.0.0",
+  "description": "One inline review pass, static checks only, and every finding as severity with file and line, the code, the concrete failure scenario, and a paste-ready comment."
+}
